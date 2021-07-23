@@ -1,0 +1,66 @@
+.header_div{
+    background-color: blueviolet;
+    color: crimson;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background-color: currentColor;
+padding: 10px;
+margin-top: 15px;
+border: 3px solid green;
+}
+.main_div label{
+   background-color: greenyellow;
+    width: 310px;
+    padding: 10px;
+margin-bottom: 0px;
+box-shadow: 5px 5px 18px yellowgreen;
+}
+.main_div button{
+    width: 310px;
+    font-size: 15px;
+    box-shadow: 5px 5px 18px yellowgreen;
+    border: 1px solid;
+font-style: tinos;
+}
+#camera1,#result1{
+border: 2px solid lime;
+width: 310px;
+height: 300px;
+box-shadow: 5px 5px 18px lightskyblue;
+}
+#camera2,#result2{
+    border: 2px solid lime;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px lightskyblue;
+    }
+    #camera3,#result3{
+        border: 2px solid lime;
+        width: 310px;
+        height: 300px;
+        box-shadow: 5px 5px 18px lightskyblue;
+        }
+        #camera4,#result4{
+            border: 2px solid lime;
+            width: 310px;
+            height: 300px;
+            box-shadow: 5px 5px 18px lightskyblue;
+            }
+            #camera5,#result5{
+                border: 2px solid lime;
+                width: 310px;
+                height: 300px;
+                box-shadow: 5px 5px 18px lightskyblue;
+                }
+
+.copy_right_footer{
+    position: fixed;
+    color: red;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+text-align: center;
+}
